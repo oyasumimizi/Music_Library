@@ -1,0 +1,31 @@
+{
+	"info": {
+		"_postman_id": "0c81dced-1bbb-4e96-9b39-080b4142f4e3",
+		"name": "Music Project",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "http://www.devcodecampmusiclibrary.com/api/music Copy",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://www.devcodecampmusiclibrary.com/api/music",
+					"protocol": "http",
+					"host": [
+						"www",
+						"devcodecampmusiclibrary",
+						"com"
+					],
+					"path": [
+						"api",
+						"music"
+					]
+				}
+			},
+			"response": []
+		}
+	],
+	"protocolProfileBehavior": {}
+}
