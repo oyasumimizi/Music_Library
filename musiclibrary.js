@@ -41,5 +41,10 @@ function buildTable(data) {
 }
 
 
+$('<style>.newClass {color: black; }</style>').appendTo('body');
+$('<style>.newClass {border-width: 5px; }</style>').appendTo('body');
+$('<style>.newClass {border-style: solid; }</style>').appendTo('body');
+
+
 apiPull();
 
